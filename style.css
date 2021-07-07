@@ -29,7 +29,7 @@ a {
 
 #menu {
 	color: #069;
-	background-color: #303f6e;
+	background-color: #6e304d;
 	padding: 0.7ex;
 }
 
@@ -39,7 +39,7 @@ a {
 }
 
 #menu a:hover {
-	background-color: #069;
+	background-color: #6e304d;
 }
 
 #menu a, #nav a, #nav b {
