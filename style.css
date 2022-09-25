@@ -82,4 +82,14 @@ a {
 	padding: 0.8ex 2em 0.8ex 1em;
 }
 
+p{
+  font-family: "Courier";
+  font-size: 20px;
+  margin: 10px 0 0 10px;
+  width: 30em;
+  animation: type 4s steps(60, end); 
+}
 
+@keyframes type{ 
+  from { width: 0; } 
+} 
